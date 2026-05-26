@@ -32,4 +32,4 @@ Este binário foi compilado no formato **One-File autônomo**, contendo todas as
 ## 📄 Licença de Distribuição
 Este componente público é disponibilizado sob a **Licença MIT**, oferecendo isenção estrita de responsabilidade e garantia jurídica de portabilidade de mercado aberta para uso corporativo ou acadêmico.
 
-**Desenvolvido com orgulho por Gabriel (Junior Cyber Security Engineer) © 2026.**
+**Desenvolvido com orgulho por (Junior Cyber Security Engineer) © 2026.**
