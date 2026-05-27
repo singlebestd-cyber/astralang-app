@@ -1,5 +1,60 @@
 # 🚀 AstraLang AlphaCompiler v12.5 & Jarvis 3D IDE Standalone
 
+**AstraLang AlphaCompiler** is a portable, multi-target autoregressive compilation ecosystem featuring **real-time predictive hardware analysis** and strict memory protection. The project resolves the classic problem of opacity in code optimization pipelines by offering a **holographic three-dimensional cockpit** that exposes the **Control Flow Graph (CFG)** and interacts natively via low-latency IPC/Socket buses.
+
+---
+
+## ⚙️ Systems Architecture & Network Engineering
+
+The ecosystem adopts a decentralized topology divided into two main layers, breaking the isolation barriers between virtualized Linux environments (**WSL2**) and the host system (**Windows Developer Environment**):
+
+*   **AI & Backend Core (WSL2 / Linux Kernel)**: A Python-based engine powered by deep **Multi-Variable Neural Networks in PyTorch 2.0**. It intercepts semantic transformations of the AST tree, calculates *cache miss* and thermal stress metrics, and manages an analytical database structured in `.jsonl` and `.astra` files, protected by **Thread-Safe Mutex Locks** against race conditions.
+*   **Jarvis 3D UI Renderer (Windows Localhost)**: A standalone full-screen interface built with HTML5 and native **WebGL** running at a **stable 60 FPS**. Communication is reactive, utilizing asynchronous AJAX/Fetch requests to bridge network endpoints.
+
+> 🛡️ **CORS Security Bypass**: The server includes a custom HTTP header layer that nullifies **Same-Origin Policy** blocks in browsers like Google Chrome, ensuring the integrity of telemetry packets without exposing cross-bridge vulnerabilities.
+
+---
+
+## 🛡️ Embedded Cybersecurity Features
+
+*   **Native Static Analysis (SAST)**: A semantic scanner triggered before any pipeline mutation, blocking spurious executions and mitigating **Integer Overflow** threats at the physical boundaries of 32-bit registers ($i32$).
+*   **RAII Memory Isolation**: Automatic resource management at runtime to prevent socket descriptor leaks and disk storage exhaustion.
+
+---
+
+## 📊 Real-Time Monitored Telemetry
+
+As the neon nodes of the pass tree are manipulated or reordered dynamically via drag-and-drop on the Canvas, the **neural oracle** instantly predicts:
+1.  **Speedup Acceleration**: Mathematical prediction of performance gains based on the applied LLVM optimization passes.
+2.  **L1/L2 Cache Miss Ratio**: Estimated performance of the silicon memory hierarchy.
+3.  **Thermal Throttling Risk**: CPU caloric stress index, triggering automatic triggers for parallel **CUDA GPU switching** via the `@target backend_gpu` directive.
+
+---
+
+## 🕹️ How to Run the Ecosystem
+
+This component was compiled using **PyInstaller** into a **standalone One-File format**, containing all dependencies (including C++ runtimes and portable drivers) with **zero prior installation required**.
+
+### 💻 On Linux / WSL2:
+1. Grant execution permission to the binary extracted from the distribution package:
+   ```bash
+   chmod +x dist/app
+   ```
+2. Initialize the network bus and the Jarvis cockpit by running the automated script:
+   ```bash
+   ./run_jarvis.sh
+   ```
+
+---
+
+## 📄 License and Intellectual Property
+This public component is made available under the **MIT License**, offering a strict disclaimer of liability and legal guarantee of market portability for corporate, academic, or commercial use.
+
+**Developed with a focus on high performance and cybersecurity by (Junior Cyber Security Engineer) © 2026.**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🚀 AstraLang AlphaCompiler v12.5 & Jarvis 3D IDE Standalone
+
 AstraLang AlphaCompiler é um ecossistema portátil de compilação autoregressiva multi-alvo com análise preditiva de hardware em tempo real e proteção estrita de memória. O projeto resolve o problema clássico de opacidade em pipelines de otimização de código, oferecendo um cockpit holográfico tridimensional que expõe o Control Flow Graph (CFG) e interage nativamente via barramento IPC/Sockets de baixa latência.
 
 ---
